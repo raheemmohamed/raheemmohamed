@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Raheem</h1>
 <h3 align="center">I'm JavaScript Engineer, Tech Enthusiast, and Youtuber from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheemmohamed" alt="raheemmohamed" /></a> </p>
-
 - 🔭 I’m currently working on [sharing my industrial experience and teaching JavaScript](https://youtube.com/@raheemsview)
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular, React, SCSS, NodeJS, ExpressJS, MongoDB**
