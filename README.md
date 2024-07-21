@@ -1,7 +1,7 @@
 ![Header](https://i.ibb.co/J5DzDFx/raheem-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Raheem</h1>
-<h3 align="center">I'm JavaScript Engineer, Tech Enthusiast, and Youtuber from Sri Lanka 🇱🇰</h3>
+<h3 align="center">I'm JavaScript Engineer, Tech Enthusiast, and YouTuber from Sri Lanka 🇱🇰</h3>
 
 
 
